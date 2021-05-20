@@ -1,0 +1,19 @@
+.form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.formGroup {
+    display: flex;
+    margin: 10px 0;
+}
+
+.formLabel {
+    width: 100px;
+}
+
+.formInput {
+    width: 150px;
+}
